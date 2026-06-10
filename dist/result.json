@@ -1,58 +1,34 @@
 {
-  "generated_at": "2026-06-10T16:07:45.910678+00:00",
+  "generated_at": "2026-06-10T20:43:58.276215+00:00",
   "domains": {
     "mtalk.google.com": {
       "candidates": [
-        "142.251.16.188",
-        "142.251.163.188",
-        "173.194.45.188"
+        "142.251.167.188",
+        "173.194.45.188",
+        "192.178.155.188"
       ],
       "picked": [
-        "142.251.163.188"
+        "142.251.167.188"
       ],
       "probe_results": [
         {
           "provider": "globalping",
-          "measurement_id": "2pV8fCaexC9zhqw7500020YSN",
-          "ip": "142.251.163.188",
+          "measurement_id": "2ftfvvcdu73AkZM9W00020YWp",
+          "ip": "192.178.155.188",
           "port": 5228,
           "ok": true,
-          "latency_ms": 211.4,
+          "latency_ms": 228.3,
           "error": "",
           "location": {
             "country": "CN",
-            "city": "Ningbo",
-            "asn": 136188,
-            "network": "NINGBO, ZHEJIANG Province, P.R.China."
-          },
-          "stats": {
-            "min": 197.4,
-            "max": 225.2,
-            "avg": 211.4,
-            "total": 3,
-            "loss": 0,
-            "rcv": 3,
-            "drop": 0
-          }
-        },
-        {
-          "provider": "globalping",
-          "measurement_id": "2StKjSaVXRRKqj9EC00020YSN",
-          "ip": "173.194.45.188",
-          "port": 5228,
-          "ok": true,
-          "latency_ms": 287.5,
-          "error": "",
-          "location": {
-            "country": "CN",
-            "city": "Shenzhen",
+            "city": "Shanghai",
             "asn": 37963,
             "network": "Hangzhou Alibaba Advertising"
           },
           "stats": {
-            "min": 256.6,
-            "max": 327.4,
-            "avg": 287.5,
+            "min": 227.2,
+            "max": 230,
+            "avg": 228.3,
             "total": 3,
             "loss": 0,
             "rcv": 3,
@@ -61,11 +37,11 @@
         },
         {
           "provider": "globalping",
-          "measurement_id": "22UVHvO6NCzp916K800020YSN",
-          "ip": "142.251.16.188",
+          "measurement_id": "2wVfG8Fcny0nZbvFs00020YWp",
+          "ip": "142.251.167.188",
           "port": 5228,
           "ok": true,
-          "latency_ms": 316.3,
+          "latency_ms": 204.2,
           "error": "",
           "location": {
             "country": "CN",
@@ -74,9 +50,33 @@
             "network": "NINGBO, ZHEJIANG Province, P.R.China."
           },
           "stats": {
-            "min": 207.3,
-            "max": 512.3,
-            "avg": 316.3,
+            "min": 193.7,
+            "max": 220.9,
+            "avg": 204.2,
+            "total": 3,
+            "loss": 0,
+            "rcv": 3,
+            "drop": 0
+          }
+        },
+        {
+          "provider": "globalping",
+          "measurement_id": "2fzKhNhek4ChqGVdr00020YWp",
+          "ip": "173.194.45.188",
+          "port": 5228,
+          "ok": true,
+          "latency_ms": 218.1,
+          "error": "",
+          "location": {
+            "country": "CN",
+            "city": "Ningbo",
+            "asn": 136188,
+            "network": "NINGBO, ZHEJIANG Province, P.R.China."
+          },
+          "stats": {
+            "min": 217.9,
+            "max": 218.6,
+            "avg": 218.1,
             "total": 3,
             "loss": 0,
             "rcv": 3,
@@ -87,31 +87,31 @@
     },
     "mtalk-dev.google.com": {
       "candidates": [
-        "172.253.139.188",
-        "192.178.155.188"
+        "142.250.31.188",
+        "142.251.167.188"
       ],
       "picked": [
-        "172.253.139.188"
+        "142.250.31.188"
       ],
       "probe_results": [
         {
           "provider": "globalping",
-          "measurement_id": "2M763MEWhVox7QHzy00020YSN",
-          "ip": "172.253.139.188",
+          "measurement_id": "29tvwGxWlt1B6SlF500020YWq",
+          "ip": "142.251.167.188",
           "port": 5228,
           "ok": true,
-          "latency_ms": 217.3,
+          "latency_ms": 243.8,
           "error": "",
           "location": {
             "country": "CN",
-            "city": "Guangzhou",
-            "asn": 45090,
-            "network": "Shenzhen Tencent Computer Systems Company"
+            "city": "Shanghai",
+            "asn": 37963,
+            "network": "Hangzhou Alibaba Advertising"
           },
           "stats": {
-            "min": 215.9,
-            "max": 219,
-            "avg": 217.3,
+            "min": 217.5,
+            "max": 296.3,
+            "avg": 243.8,
             "total": 3,
             "loss": 0,
             "rcv": 3,
@@ -120,11 +120,11 @@
         },
         {
           "provider": "globalping",
-          "measurement_id": "2n26DLCkQo0nffXfw00020YSN",
-          "ip": "192.178.155.188",
+          "measurement_id": "27XZsSE2tENV6ebad00020YWq",
+          "ip": "142.250.31.188",
           "port": 5228,
           "ok": true,
-          "latency_ms": 264.5,
+          "latency_ms": 242.6,
           "error": "",
           "location": {
             "country": "CN",
@@ -133,9 +133,9 @@
             "network": "Hangzhou Alibaba Advertising"
           },
           "stats": {
-            "min": 242,
-            "max": 285.5,
-            "avg": 264.5,
+            "min": 236.9,
+            "max": 248.3,
+            "avg": 242.6,
             "total": 3,
             "loss": 0,
             "rcv": 3,
@@ -146,31 +146,31 @@
     },
     "mtalk-staging.google.com": {
       "candidates": [
-        "142.251.167.188",
-        "192.178.155.188"
+        "142.251.16.188",
+        "192.178.218.188"
       ],
       "picked": [
-        "192.178.155.188"
+        "142.251.16.188"
       ],
       "probe_results": [
         {
           "provider": "globalping",
-          "measurement_id": "23ANWL011ooMw8QWu00020YSN",
-          "ip": "192.178.155.188",
+          "measurement_id": "2OeCQiB42ZGmMSh4c00020YWq",
+          "ip": "192.178.218.188",
           "port": 5228,
           "ok": true,
-          "latency_ms": 202.1,
+          "latency_ms": 266.3,
           "error": "",
           "location": {
             "country": "CN",
-            "city": "Ningbo",
-            "asn": 136188,
-            "network": "NINGBO, ZHEJIANG Province, P.R.China."
+            "city": "Changsha",
+            "asn": 4837,
+            "network": "CHINA UNICOM China169 Backbone"
           },
           "stats": {
-            "min": 194,
-            "max": 211.4,
-            "avg": 202.1,
+            "min": 248.9,
+            "max": 275.9,
+            "avg": 266.3,
             "total": 3,
             "loss": 0,
             "rcv": 3,
@@ -179,22 +179,22 @@
         },
         {
           "provider": "globalping",
-          "measurement_id": "295mlfbHQcQwuA74z00020YSN",
-          "ip": "142.251.167.188",
+          "measurement_id": "2hlW7UzpoAa44tX3b00020YWq",
+          "ip": "142.251.16.188",
           "port": 5228,
           "ok": true,
-          "latency_ms": 262.8,
+          "latency_ms": 260.3,
           "error": "",
           "location": {
             "country": "CN",
-            "city": "Shenzhen",
-            "asn": 37963,
-            "network": "Hangzhou Alibaba Advertising"
+            "city": "Changsha",
+            "asn": 4837,
+            "network": "CHINA UNICOM China169 Backbone"
           },
           "stats": {
-            "min": 244.5,
-            "max": 296.2,
-            "avg": 262.8,
+            "min": 238.2,
+            "max": 276.3,
+            "avg": 260.3,
             "total": 3,
             "loss": 0,
             "rcv": 3,
@@ -213,22 +213,22 @@
       "probe_results": [
         {
           "provider": "globalping",
-          "measurement_id": "2XQhyCo7Fic8vzlLf00020YSN",
+          "measurement_id": "2DzQUD9POuFURmeua00020YWq",
           "ip": "108.177.123.188",
           "port": 5228,
           "ok": true,
-          "latency_ms": 503.6,
+          "latency_ms": 309.4,
           "error": "",
           "location": {
             "country": "CN",
-            "city": "Ningbo",
-            "asn": 136188,
-            "network": "NINGBO, ZHEJIANG Province, P.R.China."
+            "city": "Shenzhen",
+            "asn": 37963,
+            "network": "Hangzhou Alibaba Advertising"
           },
           "stats": {
-            "min": 289.7,
-            "max": 625.5,
-            "avg": 503.6,
+            "min": 300.2,
+            "max": 319,
+            "avg": 309.4,
             "total": 3,
             "loss": 0,
             "rcv": 3,
@@ -247,22 +247,22 @@
       "probe_results": [
         {
           "provider": "globalping",
-          "measurement_id": "2gpIWpAMpSGQgMZFD00020YSO",
+          "measurement_id": "2P5I3OENRMy2cXsWS00020YWq",
           "ip": "172.253.116.188",
           "port": 5228,
           "ok": true,
-          "latency_ms": 285.0,
+          "latency_ms": 327.1,
           "error": "",
           "location": {
             "country": "CN",
-            "city": "Shenzhen",
-            "asn": 37963,
-            "network": "Hangzhou Alibaba Advertising"
+            "city": "Changsha",
+            "asn": 4837,
+            "network": "CHINA UNICOM China169 Backbone"
           },
           "stats": {
-            "min": 255.7,
-            "max": 323.8,
-            "avg": 285,
+            "min": 284.1,
+            "max": 352.1,
+            "avg": 327.1,
             "total": 3,
             "loss": 0,
             "rcv": 3,
@@ -281,22 +281,22 @@
       "probe_results": [
         {
           "provider": "globalping",
-          "measurement_id": "2dOUG7jJMvkQrN2XD00020YSO",
+          "measurement_id": "2Qh9U1Kum8qjfhXGH00020YWq",
           "ip": "192.178.223.188",
           "port": 5228,
           "ok": true,
-          "latency_ms": 251.5,
+          "latency_ms": 253.7,
           "error": "",
           "location": {
             "country": "CN",
-            "city": "Guangzhou",
+            "city": "Shenzhen",
             "asn": 45090,
             "network": "Shenzhen Tencent Computer Systems Company"
           },
           "stats": {
-            "min": 240.3,
-            "max": 260.3,
-            "avg": 251.5,
+            "min": 239.6,
+            "max": 270.4,
+            "avg": 253.7,
             "total": 3,
             "loss": 0,
             "rcv": 3,
@@ -315,22 +315,22 @@
       "probe_results": [
         {
           "provider": "globalping",
-          "measurement_id": "27LF2KM083A0Mz2Zc00020YSO",
+          "measurement_id": "2FI9msgvi8DgfXBGl00020YWq",
           "ip": "172.253.157.188",
           "port": 5228,
           "ok": true,
-          "latency_ms": 302.3,
+          "latency_ms": 286.7,
           "error": "",
           "location": {
             "country": "CN",
-            "city": "Shenzhen",
-            "asn": 37963,
-            "network": "Hangzhou Alibaba Advertising"
+            "city": "Wuhan",
+            "asn": 151185,
+            "network": "China Telecom"
           },
           "stats": {
-            "min": 271.1,
-            "max": 335.5,
-            "avg": 302.3,
+            "min": 282.9,
+            "max": 294.2,
+            "avg": 286.7,
             "total": 3,
             "loss": 0,
             "rcv": 3,
@@ -349,22 +349,22 @@
       "probe_results": [
         {
           "provider": "globalping",
-          "measurement_id": "2Sx73OgPXRi0f36jb00020YSO",
+          "measurement_id": "2TQoaXJ6pSKHDz73q00020YWq",
           "ip": "142.250.102.188",
           "port": 5228,
           "ok": true,
-          "latency_ms": 295.8,
+          "latency_ms": 246.4,
           "error": "",
           "location": {
             "country": "CN",
-            "city": "Guangzhou",
-            "asn": 45090,
-            "network": "Shenzhen Tencent Computer Systems Company"
+            "city": "Shenzhen",
+            "asn": 37963,
+            "network": "Hangzhou Alibaba Advertising"
           },
           "stats": {
-            "min": 278.8,
-            "max": 307.8,
-            "avg": 295.8,
+            "min": 180.5,
+            "max": 309.1,
+            "avg": 246.4,
             "total": 3,
             "loss": 0,
             "rcv": 3,
@@ -383,22 +383,22 @@
       "probe_results": [
         {
           "provider": "globalping",
-          "measurement_id": "2TtkV5jOEctDZyBNU00020YSO",
+          "measurement_id": "2E8oXIImNcaOxsm1z00020YWq",
           "ip": "192.178.213.188",
           "port": 5228,
           "ok": true,
-          "latency_ms": 245.7,
+          "latency_ms": 238.4,
           "error": "",
           "location": {
             "country": "CN",
-            "city": "Ningbo",
-            "asn": 136188,
-            "network": "NINGBO, ZHEJIANG Province, P.R.China."
+            "city": "Shenzhen",
+            "asn": 37963,
+            "network": "Hangzhou Alibaba Advertising"
           },
           "stats": {
-            "min": 214.2,
-            "max": 302.7,
-            "avg": 245.7,
+            "min": 180.5,
+            "max": 280.5,
+            "avg": 238.4,
             "total": 3,
             "loss": 0,
             "rcv": 3,
@@ -409,6 +409,7 @@
     },
     "alt7-mtalk.google.com": {
       "candidates": [
+        "142.250.147.188",
         "142.251.127.188"
       ],
       "picked": [
@@ -417,22 +418,46 @@
       "probe_results": [
         {
           "provider": "globalping",
-          "measurement_id": "26mpfh99hD1szcbWX00020YSO",
-          "ip": "142.251.127.188",
+          "measurement_id": "2QXUBnHDEYwYMa6ZH00020YWq",
+          "ip": "142.250.147.188",
           "port": 5228,
           "ok": true,
-          "latency_ms": 257.3,
+          "latency_ms": 353.9,
           "error": "",
           "location": {
             "country": "CN",
-            "city": "Ningbo",
-            "asn": 136188,
-            "network": "NINGBO, ZHEJIANG Province, P.R.China."
+            "city": "Changsha",
+            "asn": 4837,
+            "network": "CHINA UNICOM China169 Backbone"
           },
           "stats": {
-            "min": 232.9,
-            "max": 302.7,
-            "avg": 257.3,
+            "min": 346,
+            "max": 369.2,
+            "avg": 353.9,
+            "total": 3,
+            "loss": 0,
+            "rcv": 3,
+            "drop": 0
+          }
+        },
+        {
+          "provider": "globalping",
+          "measurement_id": "2eGECz9850Y6uFbTI00020YWq",
+          "ip": "142.251.127.188",
+          "port": 5228,
+          "ok": true,
+          "latency_ms": 243.1,
+          "error": "",
+          "location": {
+            "country": "CN",
+            "city": "Beijing",
+            "asn": 45090,
+            "network": "Shenzhen Tencent Computer Systems Company"
+          },
+          "stats": {
+            "min": 215.4,
+            "max": 297.9,
+            "avg": 243.1,
             "total": 3,
             "loss": 0,
             "rcv": 3,
@@ -443,7 +468,8 @@
     },
     "alt8-mtalk.google.com": {
       "candidates": [
-        "142.250.147.188"
+        "142.250.147.188",
+        "172.253.152.188"
       ],
       "picked": [
         "142.250.147.188"
@@ -451,22 +477,46 @@
       "probe_results": [
         {
           "provider": "globalping",
-          "measurement_id": "2iQgGAx2Vq7ujGLYb00020YSO",
-          "ip": "142.250.147.188",
+          "measurement_id": "29Y5DVhZPGCxAMoEy00020YWq",
+          "ip": "172.253.152.188",
           "port": 5228,
           "ok": true,
-          "latency_ms": 302.4,
+          "latency_ms": 326.2,
           "error": "",
           "location": {
             "country": "CN",
-            "city": "Guangzhou",
-            "asn": 45090,
-            "network": "Shenzhen Tencent Computer Systems Company"
+            "city": "Shanghai",
+            "asn": 37963,
+            "network": "Hangzhou Alibaba Advertising"
           },
           "stats": {
-            "min": 295.7,
-            "max": 314.9,
-            "avg": 302.4,
+            "min": 300.9,
+            "max": 376.4,
+            "avg": 326.2,
+            "total": 3,
+            "loss": 0,
+            "rcv": 3,
+            "drop": 0
+          }
+        },
+        {
+          "provider": "globalping",
+          "measurement_id": "2dK6eN1tLNwOH7eMW00020YWq",
+          "ip": "142.250.147.188",
+          "port": 5228,
+          "ok": true,
+          "latency_ms": 295.5,
+          "error": "",
+          "location": {
+            "country": "CN",
+            "city": "Wuhan",
+            "asn": 151185,
+            "network": "China Telecom"
+          },
+          "stats": {
+            "min": 285.5,
+            "max": 304.1,
+            "avg": 295.5,
             "total": 3,
             "loss": 0,
             "rcv": 3,
