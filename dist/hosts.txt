@@ -1,10 +1,10 @@
 # FCM hosts subscription for BindHosts
-# Generated at: 2026-07-21 08:43:25 UTC
+# Generated at: 2026-07-21 14:20:28 UTC
 # Source: https://github.com/<your-name>/<your-repo>/actions
 #
 # The first reachable IP for each domain is placed first.
-172.253.115.188 mtalk.google.com
-192.178.155.188 mtalk-dev.google.com
+142.251.179.188 mtalk.google.com
+142.251.111.188 mtalk-dev.google.com
 192.178.218.188 mtalk-staging.google.com
 108.177.123.188 alt1-mtalk.google.com
 172.253.116.188 alt2-mtalk.google.com
@@ -13,4 +13,4 @@
 142.250.102.188 alt5-mtalk.google.com
 192.178.213.188 alt6-mtalk.google.com
 142.251.127.188 alt7-mtalk.google.com
-172.253.148.188 alt8-mtalk.google.com
+142.250.147.188 alt8-mtalk.google.com
